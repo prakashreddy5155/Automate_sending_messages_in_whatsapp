@@ -6,6 +6,7 @@ THis is a python file which lets u to automate sending whatsapp messages with ur
 And you dont have to  wake @ 00:00 to wish ur friends during the birthday, just set at which time should it send the message and Boom !. THis will do the work for you.
 
 NOTE: 
+      Make sure to have python in ur pc or laptop or raspberry pie or any microcontroller (atleast python 3.10 recommended)
       This is just for sending whatsapp messages and nothing more... 
       You cannot automate sending the message The day after tmrw. 
       This works for today and for the next day of today i,e., Tomorrow.
